@@ -1125,9 +1125,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-td2mE8Q1Jr .carousel-item .wrap-img img {
-  max-height: 150px;
+  max-height: 250px;
   width: auto;
-  max-width: 100%;
+  max-width: 125%;
 }
 .cid-td2mE8Q1Jr .carousel-controls {
   display: flex;
@@ -1174,7 +1174,7 @@ section.lazy-placeholder:after {
   padding-left: 10px;
   width: 100%;
 }
-@media (min-width: 992px) {
+@media (min-width: 800px) {
   .cid-td2mE8Q1Jr .col-lg-15 {
     -ms-flex: 0 0 20%;
     -webkit-flex: 0 0 20%;
